@@ -11,8 +11,8 @@ This repository contains the computational materials and Maple codes supporting 
 
 This repository primarily includes:
 
--   **Maple Codes:** Scripts used for the symbolic computations regarding invariant (logarithmic) 2-jet differentials.
--   **Exports:** Generated data and outputs derived from the Maple calculations.
+-   **Maple Codes:** 
+-   **Exports:** 
 
 These files are intended to reproduce and verify the calculations found in the associated mathematical paper.
 
@@ -33,7 +33,7 @@ To run the provided codes, you will need:
 
 ##  License
 
-This project is licensed under the MIT License.
+This project is licensed under the GPL-3.0 License.
 
 ##  Contributing
 
