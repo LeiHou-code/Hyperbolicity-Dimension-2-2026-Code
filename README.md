@@ -11,8 +11,8 @@ This repository contains the computational materials and Maple codes supporting 
 
 This repository primarily includes:
 
--   **Maple Codes:** 
--   **Exports:** 
+-   **Maple Codes:** ???
+-   **Exports:** ???
 
 These files are intended to reproduce and verify the calculations found in the associated mathematical paper.
 
@@ -24,10 +24,7 @@ To run the provided codes, you will need:
 
 ##  Usage
 
-1.  Clone the repository:
-    ```bash
-    git clone https://github.com/LeiHou-code/Hyperbolicity-Dimension-2-2026-Code.git
-    ```
+1.  Clone the repository: ???
 2.  Open the `.mw` files within the Maple environment.
 3.  Execute the worksheets to regenerate the exports or modify parameters for further experimentation.
 
