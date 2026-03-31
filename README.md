@@ -11,8 +11,9 @@ This repository contains the computational materials and Maple codes supporting 
 
 This repository primarily includes:
 
--   **Maple Codes:** ???
--   **Exports:** ???
+-   **compact:** ???
+-   **logarithmic:** ???
+-   **conventions:** ???
 
 These files are intended to reproduce and verify the calculations found in the associated mathematical paper.
 
