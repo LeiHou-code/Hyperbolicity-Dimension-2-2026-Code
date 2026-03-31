@@ -25,7 +25,7 @@ To run the provided codes, you will need:
 
 ##  Usage
 
-1.  Download the specific `.mw` files directly (using the "Raw" button on GitHub) or clone the repository to your local machine.
+1.  Download the specific `.mw` files directly (using the "Download raw file" button on GitHub) or clone the repository to your local machine.
 2.  Open the `.mw` files within the Maple environment.
 3.  Execute the worksheets to regenerate the exports or modify parameters for further experimentation.
 
