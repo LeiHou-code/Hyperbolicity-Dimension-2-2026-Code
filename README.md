@@ -6,6 +6,7 @@ A collection of codes and files for new vanishing results for invariant (logarit
 This repository contains the computational materials and Maple codes supporting the results presented in the following paper:
 
 > **arXiv:2603.14881**
+> **Title:** IMPROVED DEGREE BOUNDS FOR HYPERBOLICITY OF SURFACES AND CURVE COMPLEMENTS
 
 ##  Repository Contents
 
